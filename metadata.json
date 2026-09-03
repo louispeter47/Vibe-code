@@ -1,0 +1,6 @@
+{
+  "name": "ScamAdvisor - Say No to Yahooboys",
+  "description": "Intelligent cyber defense shield and threat verification console designed to detect and combat digital scams, fraudulent links, and predatory syndicates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
